@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition to the Kings Majesty. Also a glorious victory, certified in a briefe relation of the totall routing of Prince Rvpert. And the taking of all his ordnance, armes and ammunition, bagge and baggage.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90616</idno><idno type="EEBO-CITATION">99871935</idno>
+  <idno type="VID">155232</idno>
+  <idno type="EEBO-PROQUEST">2240950354</idno>
+  
+            <idno type="STC">Wing P1858</idno>
+            <idno type="STC">Thomason E54_2</idno>
+            <idno type="STC">ESTC R23213</idno>
+            <idno type="PROQUEST">99871935</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871935e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155232)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E54[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition to the Kings Majesty. Also a glorious victory, certified in a briefe relation of the totall routing of Prince Rvpert. And the taking of all his ordnance, armes and ammunition, bagge and baggage.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly the 6th 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Marston Moor, Battle of, 1644 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155232:1"/>
+            <p>A PETITION to the Kings Majesty.</p>
+            <p>ALSO A Glorious Victory, Certified in a briefe Relation of the totall Routing of Prince RVPERT.</p>
+            <p>And the taking of all his Ordnance, Armes and Ammunition, bagge and baggage.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F.</hi> L. <hi>Iuly</hi> the 6th 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_to_king">
+            <pb facs="tcp:155232:2"/>
+            <pb n="1" facs="tcp:155232:2"/>
+            <head>An humble Petition to the King, desiring His Majestie to take into consideration the great charge that is laid upon Him, and the sad, and bleed<g ref="char:EOLhyphen"/>ing Condition of His People.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Ratious and most renowned Soveraigne, when God said of Governours, <hi>I have said yee are Gods,</hi> in few words hee comprehended many notable things putting not onely subjects there<g ref="char:EOLhyphen"/>by in mind how honourably they are to con<g ref="char:EOLhyphen"/>ceive of their superiours, but Magistrates be<g ref="char:EOLhyphen"/>sides, how religiously they should behave themselves in their places. For God vouchsafing them his owne name, will have them no doubt in some sort to answer unto his Divine nature. Not that they can be in this world Spirits as hee is, Eterna<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l as he is, Almightie, Incomprehensible as he is: For ill fareth it with that King (said the <hi>Macedmians</hi> very well) which would be counted a God rather than a King, as the tragicall end of <hi>Alexander</hi> the Great, the horrible death of <hi>Cal<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gula,</hi> the con<g ref="char:EOLhyphen"/>fusion of <hi>Herod,</hi> and others doe witnesse.</p>
+            <p>But the are thy Gods when they doe their duties rightly according unto his word, for Magistrates must beare in minde continual<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y as many things besides, so especially these foure heads.</p>
+            <p n="1">1. First, that their calling is good, and that they are in such
+<pb n="2" facs="tcp:155232:3"/> place, wherein they may and must both benefit their Cou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>trie, and profit the Church. <hi>For their Authoritie is from God.</hi>
+            </p>
+            <p n="2">2. Secondly, both how the come into such excellencie a<g ref="char:EOLhyphen"/>bove other men, and how they continue in their state of dig<g ref="char:EOLhyphen"/>nitie, how as Princes to rule. <hi>By the Grace of God, &amp;c.</hi> and the Scriptures doe witnesse. <hi>By me Kings Raigne, and Princes decree Iustice, by me Princes rule, and the Nobles, and all the Iudges of the Earth.</hi>
+            </p>
+            <p n="3">3. Thirdly over whom they have government. For they rule men▪ not beasts: Free men, not bond-slaves: And there<g ref="char:EOLhyphen"/>fore must behave themselves wisely, as over reasonable crea<g ref="char:EOLhyphen"/>tures, and Kingly to do them good, not as Tyrants to spoyle them.</p>
+            <p n="4">Fourthly, to what end they bare Authority, that there Subjects <hi>may leade a quiet, and peaceable life, in all godlinesse, and honestie;</hi> A life quiet from Forreigne enemies abroad; peace<g ref="char:EOLhyphen"/>able from civill discord at home, from Idolatry in Religion, honest from impuritie in conversation. So that all their con<g ref="char:EOLhyphen"/>sultations and doings are to be directed, either to all these ends, or to one of them, that is, to <hi>quietnesse, Peace, Godlinesse, or honestie.</hi>
+            </p>
+            <p>
+               <hi>They must procure qui<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tnesse from Forreigne Enemies,</hi> there<g ref="char:EOLhyphen"/>fore have they both men and munition, therefore bee Subse<g ref="char:EOLhyphen"/>dies given, that the enemy when he shall offer to invade, may be resisted. And that Warre is good, let the braine-sicke Ma<g ref="char:EOLhyphen"/>lignant Cavaleers imagine what they will without book, which is taken in defence of Re<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igion, the Realme, and good peo<g ref="char:EOLhyphen"/>ple. <hi>For there is a time of Warre, and a time of Peace.</hi> Not<g ref="char:EOLhyphen"/>withstanding this by the way is to be had in continuall remem<g ref="char:EOLhyphen"/>brance, that <hi>when the wayes of a man doe please the Lord, hee will make all his enemies at peace with him.</hi> And till then, neither Force of War, nor policie of wit shall prevaile.</p>
+            <pb n="3" facs="tcp:155232:3"/>
+            <p>
+               <hi>Peace at home must be sought for,</hi> which is then done, not only when wisely it is fore seene that no Traitors, like vipers, burst out from tht bowells of the Common-weale, to the distruction thereof by their comming forth, but also when justice is ex<g ref="char:EOLhyphen"/>tended rightly into all persons, For which cause a Common weale is not unfitly compared unto musicke, and good Maje<g ref="char:EOLhyphen"/>strates unto good Musitians, for as good musique consisteth not of one, but of divers sound proportionably answer<g ref="char:EOLhyphen"/>ing together, so doth a Common weale of sundry kinds of men, keeping themselves within the limmits of their owne callings, and as there is nothing more delightfull to the eare then good musique, and contrariwise nothing more ungratefull then much noyse, and no concord, so is there nothing more ac<g ref="char:EOLhyphen"/>ceptable before God, or profitable for man, then good Orders duly observed, nothing more pretious then when the last will be the best, and they which should be alow are lifted at last, which Iustice is exercised, in seeing that no man do use what con<g ref="char:EOLhyphen"/>tracts, Bargains, and dealing he left for profit, nor any man ever meanes for preferment.</p>
+            <p>
+               <hi>Religion must be advanced, the care whereof is committed unto Ma<g ref="char:EOLhyphen"/>iestrates of God himselfe for thus we read. When the King shall sit upon the Throne of his Kingdome, then shall he write him this Law, repeated in a booke, by the Priests of the Levites, And it shall be with him, and he shall read therein all the daies of his life, that he may learn to feare the Lord his God, and to keepe all the words of this Law, and these ordinances to doe them, that his heart be not lifted up above his brethren, and that he turne not from the Commandement, to the right hand or to the left, but that he may prolong his dayes in his Kingdome he and his Sonns.</hi> Whereby it is apparent as what damnable opi<g ref="char:EOLhyphen"/>nions they are, which think either with <hi>Atreous,</hi> that Princes must regard profit, not Religion or with <hi>Machivill,</hi> that Chri<g ref="char:EOLhyphen"/>stianity causeth too much humility in Governours, as though that either they were too good to obey the Commandements
+<pb n="4" facs="tcp:155232:4"/> of God, or God would enjoyne them any thing which were not good, either for themselves or their people.</p>
+            <p>But besides it is to be noted carefully, if he according to the doctrine of <hi>Paul</hi> which neglects the care of bringing up ones f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mely religeously in the feare of God, hath denyed the faith and is wo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ser the<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an Infidell, that they are in a most damnable estate which prohibit many House-holds promises and people to be instructed therein.</p>
+            <p>Furthermore, as it is the part of good p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rents not only to no<g ref="char:EOLhyphen"/>rish the bodyes of their Children with meats, but especially to nurture their minds with good learning, so it is the duty of good Princes (which are the parents of their people) not so much to provide for the safety of their bodyes, as for the salva<g ref="char:EOLhyphen"/>tion of the soules, of their children the<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Subject<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>Finally, if they will bee counted rightly, as they are certainly enti<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led <hi>defender of the faith &amp;c.</hi> then must the purity of Gods word by them be maintained against all impiety, Idollatry and superstition.</p>
+            <p>
+               <hi>They must see that their subiects lead an honest life,</hi> whe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eby as well upprightnesse among men in their Contracts is commen<g ref="char:EOLhyphen"/>ded, as gravery without lightnes in b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>haviours comprehended, and both are brought to passe <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ither by <hi>Law, example,</hi> or <hi>Punish<g ref="char:EOLhyphen"/>ment. By law</hi> things seemely are commanded, unhonest forbid<g ref="char:EOLhyphen"/>den, and those whom Councell of the wise with gen<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>len<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse can not restrayne the law often times by threatning can keepe under By example, for as the Prince is, such are the people, and such Superiours, such Subjects, by punishment, they whom neither the terrour of the law can draw from wickednes, n<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the good examples of their governors allure to w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll doing are kept in awe.</p>
+            <p>Fifthly and lastly, of all, Majestrates must beare in minde that one day assuredly, how soone it is uncertaine, they shall ren<g ref="char:EOLhyphen"/>der an acc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t unto the King of all Kings, of their b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>haviour in
+<pb n="5" facs="tcp:155232:4"/> their places, either to their everlasting comfort if they have done well, or to their endlesse torments with the Reprobates in Hell, if they have been wicked, where their paines by so▪ much shall be greater then other mens, by how much their charge was greater, and their callings for honour higher then others, for mighty men shall mightily be tormented.</p>
+            <p>We do not instruct your Majesty in these points, only de<g ref="char:EOLhyphen"/>sire, and humbly pray, that your sacred Majesty may be such a one as may have honour in this life, and eternall glory in the life to come.</p>
+            <p>And therefore do humbly begge of your gratious Majesty, that you wold be pleased to call to minde your owne honour, your posterity, your Parliament, and your people, and by prayer and Imitation of your Prodecessors settle the Kingdome in Peace by your Parliament, so shall you have peace and honour here, and Eternall glory in the life to come.</p>
+         </div>
+         <div type="narrative">
+            <head>A Breefe relation of the routing of Prince <hi>Rupert.</hi>
+            </head>
+            <p>
+               <hi>RVpert</hi> hearing of the ra<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sing of the siege at <hi>York,</hi> marched up with a nume<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous Army towards our Forts, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ased
+<pb n="6" facs="tcp:155232:5"/> them, our men were drawne up in a Batalia, <hi>Rupert</hi> fell upon the reare of the Earle of <hi>Manchesters</hi> forces neere <hi>Todcaster,</hi> charged upon them, and they being so great a strength, the Earle of Manchesters new levied Forces began to give backe, the Enemy pursued our men, fell on againe and gained two peeces of Ordnance there, <hi>Rupert</hi> fell upon Sir <hi>Thomas Fairfaxes</hi> horse, and there was a very hott fight, many slayne on both sides: our forces retreated, but ralleing our men againe, and Generall <hi>Leshly</hi> comming on with his foote, they fell on very furiously, many were killed on both sides, and then the enemy beginning to retreat our men followed pursuing, and totally Routed <hi>Rupert,</hi> tooke all his Ordnance and Amunition, bagg and baggadge, <hi>Rupert</hi> himselfe being fled as is supposed into <hi>Yorke.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>5 Iuly 1644.</date>
+               </dateline> (<hi>Of raising the seige at</hi> Yorke <hi>this is the event— —and now Malignant tell me what you thinke</hi>)</closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This is Printed according to Order.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
